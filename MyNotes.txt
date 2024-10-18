@@ -1,0 +1,3 @@
+.env
+    MONGO_URI is used to be able to connect to our database. In the <password> placeholder, paste the password you got when u setting up your db on mongodb
+    then before the question mark, add the database name e.g products?
